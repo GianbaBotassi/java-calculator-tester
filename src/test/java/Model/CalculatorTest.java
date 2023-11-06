@@ -1,3 +1,5 @@
+package Model;
+
 import Model.Calculator;
 import exceptions.DivideByZeroException;
 import org.junit.jupiter.api.DisplayName;
